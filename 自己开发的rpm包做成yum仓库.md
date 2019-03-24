@@ -23,3 +23,4 @@ repodata  tree-1.5.3-3.el6.x86_64.rpm
 这样就完成了，如果后续还有rpm包放进去，那就在执行一次。
 ```
 createrepo  /rpm包的路径
+![bx_indexzz_03.jpg](0)
