@@ -1,2 +1,3 @@
 + egrep = grep -E
-+ egrep [optto]
++ egrep [options] PATTERN [FILE...]
++ 扩展正则表达式的元字符
