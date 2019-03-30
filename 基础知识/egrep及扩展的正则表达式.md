@@ -1,1 +1,1 @@
-egrep
++ egrep = grep -E
