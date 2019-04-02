@@ -9,3 +9,6 @@
 |grep "$USER"  /etc/passwd|针对变量进行搜索|
 |grep '$USER' /etc/passwd| 针对字符进行搜索|
 |grep `whoami` /etc/passwd| 可以调用别的命令输出的结果进行搜索|
+
+#### grep选项
+
