@@ -1,4 +1,4 @@
 + grep：文本搜索工具，根据用户指定的“模式”对目标文本逐行进行批评检查：打印匹配到的行
 + 模式：由正则表达式字符及文本字符所编写的过滤条件
 #### 用法
-+ grep [options] PATTERN [file..]
++ ==**grep [options] PATTERN [file..]**==
