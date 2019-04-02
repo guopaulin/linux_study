@@ -4,4 +4,5 @@
 + ==**grep [options] PATTERN [file..]**==
 |用法|含义|
 |-|-|-|
-|content1|content2|
+|grep root /etc/passwd|针对指定字符进行收搜|
+|grep "$USER"  //etc/passwd|zhe|
