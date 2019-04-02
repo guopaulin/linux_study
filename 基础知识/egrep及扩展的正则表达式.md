@@ -31,4 +31,5 @@
  后向引用：\\1,\\2
 或者：
 a|b ：a或者b
-c|Cat : C
+c|Cat : C或者Cat
+(C|c)at ： Cat或者cat
