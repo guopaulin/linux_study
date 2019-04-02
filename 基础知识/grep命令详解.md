@@ -2,3 +2,6 @@
 + 模式：由正则表达式字符及文本字符所编写的过滤条件
 #### 用法
 + ==**grep [options] PATTERN [file..]**==
+|用法|含义|
+|-|-|-|
+|content1|content2|
